@@ -1,0 +1,13 @@
+.grid{
+
+	display: flex;
+	color: #FF33CC;
+}
+
+
+.box {
+	
+  height: 50px;
+  width: 50px;
+  background-color: green;
+}
